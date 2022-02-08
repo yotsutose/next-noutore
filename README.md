@@ -1,5 +1,8 @@
 このプロジェクトはyotsutose/noutreのnext.jsバージョンです。開発環境を変更しました。jsは辛すぎた。
 
+追記
+jsx系の書き方でcanvasが思ったより使いにくいので開発中断
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
